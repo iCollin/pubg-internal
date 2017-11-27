@@ -20,8 +20,6 @@ public:
 
 		uintptr_t _off = *(uint32_t*)(_sig + 3);
 
-		if (_off == 3) return 0;
-
 		return _sig + _off + 7;
 	}
 
