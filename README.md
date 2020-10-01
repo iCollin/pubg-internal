@@ -1,4 +1,4 @@
-# ugly-pubg-internal
+# Ugly-Pubg-Internal
 Demo internal ESP and Aimbot for PUBG.
 
 Code is by no means pretty.
